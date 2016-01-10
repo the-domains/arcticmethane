@@ -1,0 +1,28 @@
+name: ArcticMethane
+favicon: null
+layout_spectrum: 0.7329907466191798
+typography_spectrum: 0.08884684555232525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5168560820166022
+  lightness: 0.3463036916218698
+  saturation: 0.05144387483596802
+  rhythmicContrast: 0.011778402607887983
+purpose: []
